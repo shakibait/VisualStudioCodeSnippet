@@ -19,6 +19,7 @@ This is my favorites code snippets in visual studio
 ## Class structure
 
 Type pclass and double tap:
+
 	```csharp
 	public class MyClass
 	{
