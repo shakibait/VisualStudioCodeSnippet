@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets  xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Public void method</Title>
+			<Shortcut>ps2</Shortcut>
+			<Description>Public void method</Description>
+			<Author>Saeid Yarshakiba</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+				<SnippetType>SurroundsWith</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal>
+					<ID>name</ID>
+					<ToolTip>Method name</ToolTip>
+					<Default>Method</Default>
+				</Literal>
+				<Literal>
+					<ID>methodType</ID>
+					<ToolTip>Method type</ToolTip>
+					<Default>void</Default>
+				</Literal>
+				<Literal>
+					<ID>argType1</ID>
+					<ToolTip>Argument type 1</ToolTip>
+					<Default>TYPE1</Default>
+				</Literal>
+				<Literal>
+					<ID>argName1</ID>
+					<ToolTip>Argument name 1</ToolTip>
+					<Default>paramName1</Default>
+				</Literal>
+				<Literal>
+					<ID>argType2</ID>
+					<ToolTip>Argument type 2</ToolTip>
+					<Default>TYPE2</Default>
+				</Literal>
+				<Literal>
+					<ID>argName2</ID>
+					<ToolTip>Argument name 2</ToolTip>
+					<Default>paramName2</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="csharp"><![CDATA[public static $methodType$ $name$ ($argType1$ $argName1$,$argType2$ $argName2$)
+	{
+		$selected$$end$
+	}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>
