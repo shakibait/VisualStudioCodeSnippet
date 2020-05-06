@@ -17,12 +17,13 @@ This is my favorites code snippets in visual studio
 
 # Usage
 ## Class structure
+
 Type pclass and double tap:
-```csharp
-public class MyClass
-{
-	// Your code
-}
+	```csharp
+	public class MyClass
+	{
+		// Your code
+	}
 ```
 ## Method structure
 There is 2 type of methods:
