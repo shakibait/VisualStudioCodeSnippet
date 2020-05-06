@@ -24,7 +24,7 @@ Type pclass and double tap:
 	{
 		// Your code
 	}
-```
+	```
 ## Method structure
 There is 2 type of methods:
 1.  Static methods
