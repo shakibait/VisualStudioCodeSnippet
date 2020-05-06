@@ -28,26 +28,26 @@ public class MyClass
 There is 2 type of methods:
 1.  Static methods
 Type ps for methods without parameter
-```csharp
-public static void Method()
-{
-	//Your code
-}
-```
+	```csharp
+	public static void Method()
+	{
+		//Your code
+	}
+	```
 	Or you can type ps1 to 3 for methods with argument
 	```csharp
-public static void Method(TYPE1 paramName1, TYPE2 paramName2, TYPE3 paramName3)
-{
-	//Your code
-}
-```
+	public static void Method(TYPE1 paramName1, TYPE2 paramName2, TYPE3 paramName3)
+	{
+		//Your code
+	}
+	```
 2. Non static methods
 	Also you can type pv (pv1, pv2, pv3) for non static methods
 	```csharp
-public void Method(TYPE paramName)
-{
-	//Your code
-}
+	public void Method(TYPE paramName)
+	{
+		//Your code
+	}
 	```
 
 ## Class Object Definition
