@@ -27,7 +27,7 @@ public class MyClass
 ## Method structure
 There is 2 type of methods:
 1.  Static methods
-	Type ps for methods without parameter
+Type ps for methods without parameter
 ```csharp
 public static void Method()
 {
