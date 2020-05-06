@@ -20,12 +20,12 @@ This is my favorites code snippets in visual studio
 
 Type pclass and double tap:
 
-	```csharp
+```csharp
 	public class MyClass
 	{
 		// Your code
 	}
-	```
+```
 	
 ## Method structure
 There is 2 type of methods:
