@@ -55,5 +55,6 @@ Type ps for methods without parameter
 
 ## Class Object Definition
 Type obj and double tap:
-
-    ClassName obj = new ClassName();
+```csharp
+	ClassName obj = new ClassName();
+```
