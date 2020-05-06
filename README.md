@@ -28,7 +28,7 @@ public class MyClass
 There is 2 type of methods:
 1.  Static methods
 	Type ps for methods without parameter
-	```csharp
+```csharp
 public static void Method()
 {
 	//Your code
